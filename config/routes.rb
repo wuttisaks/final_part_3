@@ -1,7 +1,8 @@
 Rails.application.routes.draw do
+
   get 'static_pages/kingsong1'
 
-  get 'static_pages/kingson2'
+  get 'static_pages/kingsong2'
 
   get 'static_pages/home'
 
@@ -62,4 +63,5 @@ Rails.application.routes.draw do
   #     resources :products
   #   end
   root 'application#hello'
+  
 end

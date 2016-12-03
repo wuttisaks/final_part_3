@@ -1,0 +1,1 @@
+json.array! @kingsong1s, partial: 'kingsong1s/kingsong1', as: :kingsong1

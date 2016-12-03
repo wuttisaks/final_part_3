@@ -1,0 +1,1 @@
+json.partial! "kingsong1s/kingsong1", kingsong1: @kingsong1
