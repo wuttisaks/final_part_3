@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'static_pages/kingsong1'
+
+  get 'static_pages/kingson2'
+
   get 'static_pages/home'
 
   get 'static_pages/help'

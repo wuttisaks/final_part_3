@@ -1,13 +1,13 @@
 require 'test_helper'
 
 class StaticPagesControllerTest < ActionController::TestCase
-  test "should get home" do
-    get :home
+  test "should get kingsong1" do
+    get :kingsong1
     assert_response :success
   end
 
-  test "should get help" do
-    get :help
+  test "should get kingson2" do
+    get :kingson2
     assert_response :success
   end
 
